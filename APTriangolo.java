@@ -9,6 +9,9 @@ import java.util.Scanner;
  *
  * @author studente_2
  */
+
+
+// THIS is FuCk BoY 99 HeReeeeeeeeeeeeeeee
 public class APTriangolo {
 
     /**
